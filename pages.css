@@ -1,0 +1,101 @@
+body{
+    font-family: 'Ubuntu', sans-serif;
+    text-align: center;
+}
+
+h1{
+    font-family: 'Pacifico', cursive;
+    font-size: 3rem;
+    line-height: 1.5;
+}
+
+h2, h3, h4, h5, h6{
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: bolder;
+}
+
+p{
+    color: white;
+}
+
+
+.colored-part{
+    background-color: #83142C;
+    color: white;
+}
+
+
+.white-part{
+    background-color: white;
+}
+
+#body-part{
+    color: #83142C;
+    text-align: center;
+    width: 70%;
+    margin: 0 auto 0 auto;
+}
+
+#body-part p{
+    color: #83142C;
+}
+
+li{
+    font-size: 1.5em;
+    text-align: left;
+}
+
+
+.container-fluid{
+    padding: 3% 10%;
+    padding-bottom: 120px;
+}
+
+#title{
+    padding-top: 10px;
+    height: 160px;
+    margin-top: 0;
+}
+
+/*Nav Bar*/
+.navbar-brand{
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 30px;
+}
+
+.nav-item{
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 20px;
+    font-weight: lighter;
+    padding: 15px;
+}
+
+/*Footer*/
+#footer{
+    padding: 30px;
+}
+
+.ficon{
+    margin: 3% 2%;
+}
+
+.icon-cu{
+    width: 5%;
+    margin-left: 0;
+}
+
+input{
+    width: 70%;
+    margin-left: 0;
+    position: relative;
+    right: 150px;
+}
+
+h4{
+    text-align: left;
+}
+
+.btn{
+    width: 20%;
+    margin: auto;
+}
